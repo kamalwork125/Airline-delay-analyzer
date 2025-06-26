@@ -17,14 +17,8 @@ It shows airline performance, punctuality, delay patterns, and key insights usin
 - `Delay(min)`: Delay in minutes
 - `Status`: Delayed or On Time
 ## 📊 Visualizations Built
-
-| 📈 Chart Type     | Insight Provided                          |
-|------------------|-------------------------------------------|
-| Line Plot         | Daily total or average delay              |
-| Bar Chart         | Average delay by airline                  |
-| Pie Chart         | % of delayed vs on-time flights           |
-| Box Plot          | Delay variance per airline                |
-| Heatmap (optional)| Airline vs Day delay intensity            |
+| Line Plot         | Daily total or average delay              
+          
 ## 🚀 How to Run
 
 1. Clone this repo or download the files
